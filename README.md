@@ -1,5 +1,5 @@
 # 💫 Hello, I'm Berfin Duman.:
-🔭 Currently, I am  studying Electronics and Communication Engineering at ITU and I am working as an undergraduate student in ITU NLP lab. \ 
+🔭 Currently, I am  studying Electronics and Communication Engineering at ITU and I am working as an undergraduate student in ITU NLP lab. /
 🌱 I've been working on LLM models lately, aiming to shape my career in the field of Artificial Intelligence.
 
 
