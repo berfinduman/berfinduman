@@ -1,5 +1,6 @@
 # 💫 Hello, I'm Berfin Duman:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/berfin-duman-2b906a191/) 
+
 🔭 Currently, I am  studying Electronics and Communication Engineering at ITU and I am working as an undergraduate student in ITU NLP lab. 
 
 🌱 I've been working on LLM models lately, aiming to shape my career in the field of Artificial Intelligence.
